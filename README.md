@@ -25,6 +25,9 @@
  * When a movie poster thumbnail is selected, the movie details screen is launched.
 
 #### Network API Implementation     
- * In a background thread, app queries the `/movie/popular` or `/movie/top_rated` API for the sort criteria specified in the settings menu.    
+ * In a background thread, app queries the `/movie/popular` or `/movie/top_rated` API for the sort criteria specified in the settings menu.
+
+ ### API
+ [ссылка](https://developers.themoviedb.org/3/getting-started/introduction)    
 
 
